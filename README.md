@@ -1,0 +1,1 @@
+Ovo je README.md u prvom repo linux-security-hardening

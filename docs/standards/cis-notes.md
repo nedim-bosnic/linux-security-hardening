@@ -1,0 +1,1 @@
+Ovo je cis-notes.md (Markdown fail) u folderu standards. 

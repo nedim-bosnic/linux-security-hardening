@@ -1,0 +1,1 @@
+Ovo je baselines.md (Markdown fail) u folderu standards

@@ -1,0 +1,9 @@
+# Default: tekst fajlovi u repou kao LF
+* text=auto eol=lf
+
+# Ako imaš Windows skripte koje moraju biti CRLF:
+*.bat text eol=crlf
+*.cmd text eol=crlf
+
+# Shell skripte obavezno LF:
+*.sh text eol=lf
